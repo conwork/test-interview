@@ -15,7 +15,7 @@ Se debe manejar clase para interacción con la API de Telegram.
 Finalizada la prueba recuerda enviar link del proyecto o tu repositorio y link del bot de Telegram a [israel.iglesias@conwork.io](mailto:israel.iglesias@conwork.io) con tu información de contacto y en el asunto colocar: __CONWORK-INTERVIEW__
 
 
-> Recomendación: El orden de importancia para su evaluación será, de mayor peso a menor según enumeramos: Estructura, limmpieza, comentarios y funcionamiento.
+> Recomendación: El orden de importancia para su evaluación será, de mayor peso a menor según enumeramos: Estructura, limpieza, comentarios y funcionamiento.
 
 ### Problema a resolver:
 
