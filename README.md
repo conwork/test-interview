@@ -39,6 +39,6 @@ Dará de baja al usuario y mostrará mensaje de Baja realizada correctamente. Ej
 Indicará el estado del usuario (Registrado, no registrado). Ejemplo de uso /status israel
 
 
-##Extra 
-En la respuesta de la baja de usuario preguntar motivo de la baja mediante 3 botones: "No quiero dar motivo", "Me ha llamado Google", "No me gustan los retos" 
+# Extra 
+> En la respuesta de la baja de usuario preguntar motivo de la baja mediante 3 botones: "No quiero dar motivo", "Me ha llamado Google", "No me gustan los retos" 
 
